@@ -1,0 +1,27 @@
+{
+  "name": "cypress-automated-tests",
+  "version": "0.0.1",
+  "author": "Marcus Alexandre",
+  "cypress-cucumber-preprocessor": {
+    "step_definitions": "cypress/support/steps"
+  },
+  "scripts": {
+    "test": "cypress run --config video=false --env allure=true",
+    "cy:open": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "tests",
+    "e2e",
+    "cucumber"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@shelex/cypress-allure-plugin": "^2.8.3",
+    "cypress": "^9.7.0",
+    "cypress-cucumber-preprocessor": "^4.1.2",
+    "cypress-iframe": "^1.0.1",
+    "cypress-xpath": "^1.6.2",
+    "faker": "^5.5.3"
+  }
+}
