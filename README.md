@@ -20,10 +20,10 @@
 Realize o donwload do projeto template e commit ele no seu repositorio do gitHub
 
 * **Instale o cypress com o comando**           ```-> npm install cypress@9.7.0```
- **Instale instale o node com o comando**             ```-> npm install ```
+* **Instale o node com o comando**             ```-> npm install ```
 * **Execute o runner do cypress**               ```-> npx cypress open```
-* **No visual Code baixe a extensões**               ```Cucumber, Autor Cucumber```
-* **No visual Code baixe as extensões**               ```Cucumber (Gherkin) Full Support, Autor Alexander Krechik```
+* **No visual Code, baixe a extensões**               ```Cucumber, Autor Cucumber```
+* **No visual Code, baixe as extensões**               ```Cucumber (Gherkin) Full Support, Autor Alexander Krechik```
 
 ***Estrutura do projeto:***
 ```
