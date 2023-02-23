@@ -19,7 +19,7 @@
 
 Realize o donwload do projeto template e commit ele no seu repositorio do gitHub
 
-* **Instale o cypress com o comando**           ```-> npm install cypress```
+* **Instale o cypress com o comando**           ```-> npm install cypress@9.7.0```
 * **Execute o runner do cypress**               ```-> npm run cy:open```
 
 ***Estrutura do projeto:***
