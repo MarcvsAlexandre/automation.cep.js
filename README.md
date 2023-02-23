@@ -17,13 +17,13 @@
 
 ***Comandos:***
 
-Realize o donwload do projeto template e commit ele no seu repositorio do gitHub
-
 * **Instale o cypress com o comando**           ```-> npm install cypress@9.7.0```
 * **Instale o node com o comando**             ```-> npm install ```
 * **Execute o runner do cypress**               ```-> npx cypress open```
+* ** Na instalação do Cypress, observe se realmente está na realizando a instalação do mesmo dentro da pasta do projeto, caso não esteja, o cypress ira instalar sua biblioteca fora da pasta. Observe se o nome do primeiro testes no Cypress está como Feacture, caso contrario, a instalação do cypress foi feita fora da pasta do projeto.**
 * **No visual Code, baixe a extensões**               ```Cucumber, Autor Cucumber```
 * **No visual Code, baixe as extensões**               ```Cucumber (Gherkin) Full Support, Autor Alexander Krechik```
+
 
 ***Estrutura do projeto:***
 ```
